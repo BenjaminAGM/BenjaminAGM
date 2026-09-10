@@ -286,8 +286,8 @@ aprender, aportar en proyectos reales y seguir creciendo como desarrollador.
   <img src="https://img.shields.io/badge/LinkedIn-Benjamin%20Gómez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:benjaminagm27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-benjaminagm27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=benjaminagm27@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/BenjaminAGM">
