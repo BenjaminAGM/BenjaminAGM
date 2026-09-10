@@ -247,12 +247,14 @@ Scrumban
 
 </div>
 
-🌎 Idiomas
+## 🌎 Idiomas
 
-Español   ████████████████████   Nativo
-Inglés    ███████████░░░░░░░░░   Intermedio
+<p>
+  <img src="https://img.shields.io/badge/Español-Nativo-2F81F7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Inglés-Intermedio-6E7681?style=for-the-badge">
+</p>
 
-Inglés intermedio: comprensión de documentación técnica y comunicación básica.
+**Inglés intermedio:** comprensión de documentación técnica y comunicación básica.
 
 🎯 Actualmente
 
