@@ -1,128 +1,190 @@
+<div align="center">
+
 # 👋 Hola, soy Benjamin Gómez
 
-### 💻 Desarrollador de Software | Full Stack & Frontend
+### 💻 Estudiante de Desarrollo de Software | Full Stack & Frontend
 
-Soy estudiante de desarrollo de software, interesado principalmente en el desarrollo **Full Stack**, **Frontend** y aplicaciones móviles.
+Apasionado por crear aplicaciones, aprender nuevas tecnologías
+y seguir creciendo como desarrollador.
 
-Me gusta aprender construyendo proyectos reales, trabajando tanto en la interfaz de usuario como en la lógica y estructura de las aplicaciones.
-
-Actualmente sigo fortaleciendo mis conocimientos en desarrollo web, aplicaciones móviles, APIs REST, bases de datos y buenas prácticas de desarrollo.
-
----
-
-## 🚀 Proyecto destacado
-
-### 🏋️ TrainTrack
-
-**TrainTrack** es una aplicación orientada al seguimiento del entrenamiento y bienestar del usuario.
-
-La aplicación permite registrar información relacionada con el estado físico y utilizar esos datos para apoyar la planificación y seguimiento de las rutinas de entrenamiento.
-
-### ✨ Características
-
-* 📱 Aplicación desarrollada con Flutter.
-* 🧠 Registro de bienestar diario.
-* 💪 Seguimiento de rutinas de entrenamiento.
-* 📊 Registro de RPE, fatiga y sueño.
-* 💤 Seguimiento del descanso muscular.
-* 🔄 Comunicación entre frontend y backend mediante API REST.
-* 🗄️ Persistencia de información mediante base de datos.
-
-### 🛠️ Tecnologías del proyecto
-
-**Frontend**
-
-`Flutter` · `Dart`
-
-**Backend**
-
-`Node.js` · `Express`
-
-**Base de datos**
-
-`MongoDB` · `Mongoose`
-
-**Desarrollo**
-
-`Git` · `GitHub` · `REST API`
+</div>
 
 ---
 
-## 📂 Arquitectura de TrainTrack
+## 🧑‍💻 Sobre mí
 
 ```text
-train-track-mvp/
-│
-├── app/
-│   └── Aplicación móvil desarrollada con Flutter
-│
-├── backend/
-│   └── API y lógica del servidor
-│
-├── docs/
-│   └── Documentación del proyecto
-│
-└── README.md
+Nombre:    Benjamin Gómez
+Enfoque:   Desarrollo Full Stack · Frontend · Desarrollo de Software
+Proyecto:  TrainTrack
 ```
+
+* 🎓 Actualmente estoy formándome en **desarrollo de software**.
+* 💻 Me interesa especialmente el desarrollo **Full Stack y Frontend**.
+* 📱 He trabajado en desarrollo de aplicaciones móviles con **Flutter y Dart**.
+* 🌐 Tengo experiencia académica trabajando con **APIs REST, Node.js y bases de datos**.
+* 🧠 Continúo fortaleciendo mis conocimientos en arquitectura, algoritmos y buenas prácticas de desarrollo.
+* 🔧 Me gusta aprender construyendo y resolviendo problemas reales mediante código.
 
 ---
 
-## 👨‍💻 Mi trabajo en TrainTrack
+## 🛠️ Stack Tecnológico
 
-TrainTrack ha sido uno de los proyectos donde he podido aplicar y seguir desarrollando conocimientos de programación y desarrollo de software.
+### 👨‍💻 Lenguajes
 
-Durante el proyecto he trabajado con tecnologías y conceptos como:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,html" />
+</p>
 
-* Flutter y Dart.
-* Desarrollo de interfaces.
-* Consumo de APIs.
-* Node.js.
-* Estructuración de aplicaciones.
-* Git y GitHub.
-* Trabajo con repositorios y commits.
+### 🚀 Frameworks & Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📚 Conocimientos
+
+Además de las tecnologías anteriores, durante mi formación he trabajado con conceptos como:
+
+* Programación Orientada a Objetos
+* APIs REST
+* JSON
+* Bases de datos relacionales
+* Estructuras de datos
+* Algoritmos
+* Git y control de versiones
+* Linux
+* Scrum
+* Kanban
+* Scrumban
+
+---
+
+# 🚀 Proyecto Destacado
+
+## 🏋️ TrainTrack
+
+### Aplicación móvil para seguimiento de entrenamiento y bienestar
+
+**TrainTrack** es una aplicación móvil desarrollada como proyecto en equipo, orientada al seguimiento del entrenamiento de deportistas.
+
+La aplicación registra indicadores diarios de bienestar como **fatiga, sueño y percepción del esfuerzo (RPE)**, permitiendo utilizar esa información para apoyar el seguimiento y ajuste de las rutinas de entrenamiento.
+
+### ⚙️ Arquitectura
+
+```text
+                ┌─────────────────┐
+                │   Flutter App   │
+                │      Dart       │
+                └────────┬────────┘
+                         │
+                    REST API
+                         │
+                ┌────────▼────────┐
+                │     Node.js     │
+                │     Express     │
+                └────────┬────────┘
+                         │
+                ┌────────▼────────┐
+                │     MongoDB     │
+                │    Mongoose     │
+                └─────────────────┘
+```
+
+### 🛠️ Tecnologías utilizadas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,git,github" />
+</p>
+
+### ✨ Funcionalidades
+
+* 📋 Registro diario del estado de bienestar.
+* 💪 Gestión de rutinas y sesiones de entrenamiento.
+* 😴 Seguimiento de sueño y fatiga.
+* 📊 Registro de percepción del esfuerzo mediante RPE.
+* 🦾 Seguimiento del descanso muscular.
+* 🔄 Comunicación entre aplicación móvil y backend mediante API REST.
+* 🗄️ Persistencia de información utilizando MongoDB.
+* 📱 Interfaz desarrollada utilizando Flutter.
+
+### 🧑‍💻 Mi experiencia en el proyecto
+
+TrainTrack ha sido uno de los proyectos más importantes durante mi formación, ya que me permitió trabajar dentro de una aplicación con **frontend, backend y base de datos**.
+
+A través del proyecto he podido ganar experiencia práctica trabajando con:
+
+* Desarrollo de interfaces con Flutter.
+* Programación con Dart.
 * Integración entre frontend y backend.
-* Desarrollo y depuración de funcionalidades.
+* Consumo de endpoints mediante API REST.
+* Estructuración y organización de una aplicación.
+* Uso de Git y GitHub para control de versiones.
+* Trabajo colaborativo mediante commits y repositorios.
+* Depuración y resolución de problemas durante el desarrollo.
 
-Este proyecto continúa siendo parte de mi proceso de aprendizaje y mejora como desarrollador.
+> TrainTrack fue desarrollado en equipo, por lo que las distintas funcionalidades y componentes fueron distribuidos entre sus integrantes.
+
+### 🔗 Repositorio
+
+<a href="https://github.com/BenjaminAGM/train-track-mvp">
+  <img src="https://img.shields.io/badge/Ver%20TrainTrack-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-## 🧰 Tecnologías que utilizo
+## 📊 Estadísticas de GitHub
 
-```text
-Flutter       Dart
-JavaScript    Node.js
-Python        Java
-HTML          SQL
-Git           GitHub
-```
+<div align="center">
 
-También tengo conocimientos en:
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BenjaminAGM&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" />
 
-* Programación Orientada a Objetos.
-* APIs REST.
-* JSON.
-* Bases de datos relacionales.
-* Estructuras de datos.
-* Algoritmos.
-* Linux.
-* Scrum.
-* Kanban.
-* Scrumban.
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminAGM&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎯 Actualmente
 
-Estoy enfocado en seguir desarrollando mis habilidades y adquirir experiencia en proyectos relacionados con:
-
-**Full Stack Development · Frontend Development · Software Development**
+```text
+📚 Aprendiendo       → Desarrollo Full Stack
+💻 Enfoque           → Frontend & Software Development
+📱 Proyecto destacado → TrainTrack
+🚀 Objetivo          → Seguir creciendo como desarrollador
+```
 
 ---
 
-## 📫 Contacto
+<div align="center">
 
-Puedes encontrar mis proyectos y evolución como desarrollador directamente en mi perfil de GitHub.
+### 🤝 Conectemos
 
-**Benjamin Gómez**
-Software Developer
+Estoy interesado en seguir aprendiendo, colaborar en proyectos
+y adquirir experiencia en desarrollo de software.
+
+<br>
+
+<a href="https://github.com/BenjaminAGM">
+  <img src="https://img.shields.io/badge/GitHub-BenjaminAGM-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+⭐ **Gracias por visitar mi perfil**
+
+</div>
