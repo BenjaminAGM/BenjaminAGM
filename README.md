@@ -1,39 +1,48 @@
 <div align="center">
 
-# Hola 👋 Soy Benjamin Gómez
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Frontend+%7C+Full+Stack;Apasionado+por+crear+y+aprender)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hola+%F0%9F%91%8B+Soy+Benjamin+G%C3%B3mez;Desarrollador+de+Software;Frontend+%7C+Full+Stack)](https://git.io/typing-svg)
 
 <br>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/benjamin-alberto-gomez-moya-32664227a/)">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/benjamin-alberto-gomez-moya-32664227a/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="benjaminagm27@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:benjaminagm27@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/BenjaminAGM">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante de **Desarrollo de Software**, con interés en el área de **Frontend**, **Full Stack** y desarrollo de aplicaciones.
+Soy **estudiante de Desarrollo de Software**, enfocado principalmente en el desarrollo **Frontend, Full Stack y aplicaciones móviles**.
 
-Me gusta aprender construyendo proyectos reales, mejorando mis habilidades en interfaces, lógica de negocio, consumo de APIs y bases de datos.
+Me interesa construir software que combine una interfaz clara con una estructura técnica mantenible, mientras continúo fortaleciendo mis conocimientos en desarrollo web, aplicaciones móviles, APIs y bases de datos.
 
-Actualmente sigo fortaleciendo mis conocimientos en:
+Actualmente mi principal proyecto es **TrainTrack**, una aplicación móvil desarrollada en equipo para el seguimiento del entrenamiento y bienestar deportivo.
 
-- Desarrollo web y móvil
-- APIs REST
-- Git y GitHub
-- Bases de datos
-- Programación orientada a objetos
-- Estructuras de datos y algoritmos
+---
+
+## 🛠️ Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,mongodb,git,github,vscode">
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Flutter` · `Dart` · `Node.js` · `Express` · `MongoDB` · `REST API` · `Git` · `GitHub`
+
+</div>
 
 ---
 
@@ -43,38 +52,44 @@ Actualmente sigo fortaleciendo mis conocimientos en:
 <tr>
 <td width="100%">
 
-### 🏋️ TrainTrack
+<h3 align="center">🏋️ TrainTrack</h3>
 
-**App Móvil de Entrenamiento Adaptativo — MVP**
-
-Aplicación móvil enfocada en el seguimiento del entrenamiento y bienestar del usuario.  
-Permite registrar indicadores como fatiga, sueño y percepción del esfuerzo (**RPE**), apoyando el monitoreo y ajuste de rutinas.
-
-<br>
-
-**Tecnologías usadas:**
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<p align="center">
+  <i>Aplicación móvil para seguimiento de entrenamiento y bienestar</i>
 </p>
 
-**Lo que muestra este proyecto:**
+TrainTrack es una aplicación móvil desarrollada en equipo que permite registrar y hacer seguimiento de información relacionada con el entrenamiento y el bienestar del usuario.
 
-- Desarrollo de interfaz con Flutter
-- Programación en Dart
-- Comunicación frontend-backend mediante API REST
-- Backend con Node.js + Express
-- Persistencia de datos con MongoDB
-- Trabajo con estructura de proyecto real
-- Uso de Git y GitHub para control de versiones
+El proyecto integra una aplicación desarrollada en **Flutter** con un backend basado en **Node.js + Express**, comunicados mediante una **API REST** y utilizando **MongoDB** para la persistencia de datos.
 
-**Repositorio:**  
-🔗 [Ver TrainTrack](https://github.com/BenjaminAGM/train-track-mvp)
+### Funcionalidades principales
+
+- Registro de indicadores diarios de bienestar.
+- Seguimiento de fatiga y calidad del sueño.
+- Registro de percepción del esfuerzo mediante RPE.
+- Gestión y seguimiento de rutinas de entrenamiento.
+- Comunicación entre aplicación móvil y backend mediante API REST.
+- Persistencia de datos con MongoDB.
+- Arquitectura separada entre frontend y backend.
+- Desarrollo colaborativo mediante Git y GitHub.
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+<div align="center">
+
+<a href="https://github.com/BenjaminAGM/train-track-mvp">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 </td>
 </tr>
@@ -82,56 +97,30 @@ Permite registrar indicadores como fatiga, sueño y percepción del esfuerzo (**
 
 ---
 
-## 📚 Stack Tecnológico
+## 🏗️ Arquitectura de TrainTrack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,dart,html,flutter,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenjaminAGM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminAGM&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminAGM&theme=tokyonight" />
-
-</div>
-
----
-
-## 🧩 Mis Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjaminAGM&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 👀 Visitas al perfil
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=BenjaminAGM&color=3b82f6&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 ¡No dudes en contactarme para colaborar o conversar sobre tecnología!
-
-</div>
+```text
+┌─────────────────────────┐
+│                         │
+│      Flutter / Dart     │
+│     Aplicación móvil    │
+│                         │
+└────────────┬────────────┘
+             │
+             │  REST API
+             │
+             ▼
+┌─────────────────────────┐
+│                         │
+│    Node.js / Express    │
+│        Backend          │
+│                         │
+└────────────┬────────────┘
+             │
+             ▼
+┌─────────────────────────┐
+│                         │
+│        MongoDB          │
+│     Base de Datos       │
+│                         │
+└─────────────────────────┘
