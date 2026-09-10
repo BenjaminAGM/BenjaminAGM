@@ -1,6 +1,13 @@
 <div align="center">
 
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1800&color=2F81F7&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Hola+%F0%9F%91%8B+Soy+Benjamin+G%C3%B3mez"
+alt="Hola, soy Benjamin Gómez"
+/>
 
+Estudiante de Ingeniería en Informática
+
+Frontend · Full Stack · Desarrollo de Software
 
 <br>
 
@@ -26,12 +33,12 @@ Durante mi formación he trabajado con desarrollo web y móvil, programación or
 
 Actualmente busco una oportunidad de práctica profesional de 378 horas donde pueda seguir desarrollando mis habilidades, aportar en proyectos reales y adquirir experiencia profesional en el área de software.
 
-🎓 Carrera         Ingeniería en Informática — UTEM
-💻 Enfoque         Frontend · Full Stack · Desarrollo de Software
-📱 Desarrollo      Flutter · Dart
-⚙️ Backend         Node.js · Express
-🚀 Proyecto        TrainTrack
-💼 Actualmente     Buscando práctica profesional
+🎓 Carrera      Ingeniería en Informática — UTEM
+💻 Enfoque      Frontend · Full Stack · Desarrollo de Software
+📱 Mobile       Flutter · Dart
+⚙️ Backend      Node.js · Express
+🚀 Proyecto     TrainTrack
+💼 Estado       Buscando práctica profesional
 
 🛠️ Stack Tecnológico
 
@@ -49,10 +56,9 @@ Lenguajes
 Frameworks y Tecnologías
 
 <p>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 Bases de Datos
@@ -71,10 +77,97 @@ Herramientas y Plataformas
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
+🚀 Proyecto Destacado
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<h2 align="center">
+🏋️ <a href="https://github.com/BenjaminAGM/train-track-mvp">TrainTrack</a>
+</h2>
+
+<p align="center">
+  <i>Aplicación móvil de bienestar y entrenamiento</i>
+</p>
+
+TrainTrack es una aplicación móvil desarrollada como proyecto académico en equipo, orientada al registro del bienestar diario y al seguimiento de rutinas de entrenamiento.
+
+La aplicación trabaja con variables como RPE, fatiga, sueño y recuperación muscular, permitiendo visualizar información relevante para apoyar el seguimiento del estado físico del usuario.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+👨‍💻 Mi rol en el proyecto
+
+Me desempeñé como líder de proyecto y desarrollador dentro de un equipo de cuatro integrantes.
+
+Entre mis principales aportes estuvieron:
+
+Coordinación de tareas y seguimiento del avance general del proyecto.
+
+Desarrollo de pantallas e interfaces con Flutter y Dart.
+
+Implementación de navegación dentro de la aplicación.
+
+Desarrollo de funcionalidades de inicio de sesión y registro de usuarios.
+
+Implementación de gráficos para visualizar información de entrenamiento y bienestar.
+
+Participación en la lógica de entrenamiento utilizada para adaptar rutinas según el estado físico y los datos registrados.
+
+Participación en funcionalidades relacionadas con gestión de usuarios.
+
+Uso de Git y GitHub para control de versiones y trabajo colaborativo.
+
+Resolución de problemas y participación en decisiones necesarias para completar el proyecto.
+
+🎯 Lo que me permitió desarrollar
+
+Trabajo colaborativo en un proyecto de software real.
+
+Organización y liderazgo de un equipo de desarrollo.
+
+Desarrollo de interfaces móviles.
+
+Integración entre frontend y backend.
+
+Consumo de APIs REST.
+
+Manejo de datos y visualización de información.
+
+Control de versiones con Git y GitHub.
+
+Resolución de problemas durante el ciclo de desarrollo.
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/BenjaminAGM/train-track-mvp">
+  <img src="https://img.shields.io/badge/VER%20TRAINTRACK-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+</td>
+</tr>
+</table>
+
 🧠 Conocimientos
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 💻 Desarrollo
@@ -116,179 +209,9 @@ Kanban
 Scrumban
 
 </td>
+
 </tr>
 </table>
-
-🚀 Proyectos Destacados
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-🏋️ <a href="https://github.com/BenjaminAGM/train-track-mvp">TrainTrack</a>
-</h3>
-
-<p align="center">
-<i>Aplicación móvil de bienestar y entrenamiento</i>
-</p>
-
-Aplicación móvil desarrollada como proyecto académico en equipo para registrar indicadores de bienestar y apoyar la adaptación y seguimiento de rutinas de entrenamiento.
-
-Considera variables como RPE, fatiga, sueño y recuperación muscular.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-</p>
-
-Mi participación:
-
-Líder de proyecto en un equipo de 4 integrantes
-
-Coordinación de tareas y seguimiento del proyecto
-
-Desarrollo de pantallas con Flutter
-
-Navegación de la aplicación
-
-Funcionalidades de inicio de sesión y registro
-
-Implementación de gráficos
-
-Participación en lógica de entrenamiento
-
-Participación en gestión de usuarios
-
-Control de versiones con Git y GitHub
-
-Resolución de problemas durante el desarrollo
-
-<br>
-
-<div align="center">
-<a href="https://github.com/BenjaminAGM/train-track-mvp">
-  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-🌐 <a href="https://github.com/BenjaminAGM/agencia-web-portafolio">Agencia Web Portafolio</a>
-</h3>
-
-<p align="center">
-<i>Aplicación web para presentación y cotización de servicios</i>
-</p>
-
-Proyecto web orientado a presentar servicios digitales mediante una interfaz web y funcionalidades de cotización.
-
-El proyecto me permitió seguir practicando desarrollo web y la integración entre frontend y lógica del servidor.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-</p>
-
-Características:
-
-Aplicación web desarrollada con Python
-
-Uso de Flask
-
-Presentación de servicios
-
-Funcionalidad relacionada con cotizaciones
-
-Desarrollo de interfaz web
-
-Organización de contenido y estructura del proyecto
-
-<br>
-
-<div align="center">
-<a href="https://github.com/BenjaminAGM/agencia-web-portafolio">
-  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center">
-🪑 <a href="https://github.com/BenjaminAGM/taller-santa-rosa-web">Taller Santa Rosa Web</a>
-</h3>
-
-<p align="center">
-<i>Landing page para presentación de servicios</i>
-</p>
-
-Sitio web desarrollado para presentar de forma clara los servicios y trabajos de un taller, con énfasis en una experiencia visual simple y funcional.
-
-Este proyecto me permitió continuar trabajando en estructura web, diseño de interfaces y adaptación de contenido para distintos dispositivos.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
-
-Características:
-
-Landing page enfocada en presentación de servicios
-
-Desarrollo de interfaz web
-
-Organización visual de contenido
-
-Diseño adaptable
-
-Uso de HTML, CSS y JavaScript
-
-<br>
-
-<div align="center">
-<a href="https://github.com/BenjaminAGM/taller-santa-rosa-web">
-  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</div>
-
-</td>
-</tr>
-</table>
-
-🏗️ Arquitectura de TrainTrack
-
-                        TRAINTRACK
-                            │
-                ┌───────────▼───────────┐
-                │     Flutter / Dart    │
-                │    Aplicación móvil   │
-                └───────────┬───────────┘
-                            │
-                         REST API
-                            │
-                ┌───────────▼───────────┐
-                │   Node.js / Express   │
-                │        Backend        │
-                └───────────┬───────────┘
-                            │
-                ┌───────────▼───────────┐
-                │        MongoDB        │
-                │     Base de datos     │
-                └───────────────────────┘
 
 📊 Estadísticas de GitHub
 
@@ -313,14 +236,6 @@ Uso de HTML, CSS y JavaScript
 <div align="center">
 
 <img width="750" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminAGM&theme=tokyonight">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminAGM&theme=tokyonight&hide_border=true">
 
 </div>
 
