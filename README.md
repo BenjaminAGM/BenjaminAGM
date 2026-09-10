@@ -15,7 +15,7 @@ Frontend · Full Stack · Desarrollo de Software
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:benjaminagm27@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=benjaminagm27@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
